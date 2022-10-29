@@ -1,0 +1,2 @@
+Begin Time (s)	End Time (s)	Begin File	Delta Time (s)	Selection	View	Channel	Low Freq (Hz)	High Freq (Hz)	selec.file
+2	3.902131569	CC1_20171010_125500.wav	1.902131569	2	Spectrogram 1	1	2622.5	8670.1	CC1_20171010_125500.txt
